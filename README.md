@@ -97,13 +97,13 @@ I enjoy building practical applications that combine intelligent technologies wi
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🤖 Skillora AI
 
 **AI-Powered Resume Skill Matcher & Career Platform**
 
-An AI-based career platform designed to analyze resumes, identify skill gaps, provide learning roadmaps, offer career guidance and support intelligent job/internship matching.
+An AI-powered platform that helps users **build and analyze resumes**, identify **skill gaps**, generate personalized **learning roadmaps**, and receive **AI-based career guidance**. It also supports intelligent job and internship matching based on user skills and resume information.
 
 **Tech Stack**
 
@@ -116,7 +116,7 @@ An AI-based career platform designed to analyze resumes, identify skill gaps, pr
 
 **AI-Based Cyberbullying Detection System**
 
-An AI/NLP-based project focused on detecting potentially toxic and cyberbullying-related content using text processing and machine learning techniques.
+An AI/NLP-based application designed to analyze text and identify potentially **toxic or cyberbullying-related content**. The project uses text preprocessing, feature extraction and machine learning techniques to classify textual content.
 
 **Tech Stack**
 
@@ -129,24 +129,12 @@ An AI/NLP-based project focused on detecting potentially toxic and cyberbullying
 
 **Agriculture Marketplace Platform**
 
-A web-based agriculture marketplace designed to connect users with agricultural products and services through a digital platform.
+A web-based agriculture marketplace that provides a digital platform for connecting users with agricultural products and services. The project focuses on creating a user-friendly web experience backed by a Python-based backend and database.
 
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 `Python` `Django` `MongoDB`
-
----
-
-# 🌱 Currently Exploring
-
-* 🐍 **Python & Data Science**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🧠 **Natural Language Processing**
-* 🌐 **Full-Stack Web Development**
-* ⚛️ **React & TypeScript**
-* 🌐 **Computer Networks**
-* 🗄️ **SQL & Database Systems**
 
 ---
 
@@ -165,9 +153,8 @@ A web-based agriculture marketplace designed to connect users with agricultural 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meerasachchade14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meerasachchade14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-
 
 ---
 
